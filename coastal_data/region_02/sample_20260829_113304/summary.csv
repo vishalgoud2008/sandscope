@@ -1,0 +1,15 @@
+Parameter,Value,Unit
+Calibration status,VALID,
+Reference type,Plain black square,
+Reference size,25.0,mm
+Reference pixels,108.66,pixels
+Pixels per mm,4.34658,pixels/mm
+Detected grain candidates,9,count
+Mean diameter,14.509,mm
+Median diameter,9.9075,mm
+Standard deviation,12.8487,mm
+D10,2.3747,mm
+D30,6.7267,mm
+D50,9.9075,mm
+D60,12.3187,mm
+Uniformity coefficient,5.188,

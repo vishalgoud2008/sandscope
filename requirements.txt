@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+plotly
+geopandas
+shapely
+pyproj
+pyogrio
+reportlab
